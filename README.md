@@ -11,4 +11,6 @@ Simply search "sagan-dark-syntax" within Atom's integrated package installer. (S
 `apm install sagan-dark-syntax`
 
 ## Screenshot
-![A screenshot of your theme](https://raw.githubusercontent.com/coryg-io/sagan-ui/master/sagan-ui-thumb.png)
+(Shown with [Fira Code](https://github.com/tonsky/FiraCode))
+![A screenshot of your theme](https://raw.githubusercontent.com/coryg-io/sagan-dark-syntax/master/sagan-dark-syntax.png)
+
